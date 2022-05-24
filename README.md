@@ -1,2 +1,1 @@
-# HDSC
-Official Website for Health Data Science Center 
+# Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) 
