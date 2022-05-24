@@ -5,9 +5,9 @@ builddrafts = false
 baseurl = "https://biaslab.github.io"
 canonifyurls = true
 theme = "hugo-academic-group"
-title = "BIASlab"
+title = "Health Data Science Center"
 math = true
-copyright = "&copy; BIASlab, 2021 "
+copyright = "&copy; CHIRAL Bangladesh, 2022 "
 enableRobotsTXT = true
 
 [taxonomies]
@@ -21,7 +21,7 @@ tag = "tags"
 
 [params]
   description = "Website of research group"
-  author = "BIASlab"
+  author = "CHIRAL Bangladesh"
   email = "bert.de.vries@tue.nl"
   youtube = "https://www.youtube.com/channel/UCd1ftkOXIQ8MstIHosEDdaw/"
   address = '<a href="https://www.google.nl/maps/place/Flux/@51.4477301,5.4899384,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!2sFlux!3b1!8m2!3d51.4477268!4d5.4921271!3m4!1s0x47c6d8e732a9a3c3:0x5b7b2b4ec811981c!8m2!3d51.4477268!4d5.4921271">Flux building 7.060, Groene Loper 19, 5612 AP Eindhoven, the Netherlands</a>'
@@ -29,21 +29,13 @@ tag = "tags"
   slogan_icon = "icon-spsbrats_logo"
   slogan_text = "Bayesian Intelligent Autonomous Systems"
   custom_css = ["biaslab.css"]
-  landing_heading = "Natural Artificial Intelligence"
-  landing_description = "Automating the development of novel signal processing and control systems through <span style=\"white-space: nowrap;\">neuro-inspired</span> <span style=\"white-space: nowrap;\">free-energy</span> minimizing agents"
+  landing_heading = "Health Data Science"
+  landing_description = "Solving Healthcare Problems using Modern Data Science"
   positions_available = true
 
-  [params.logo]
-    image = "img/tue-logo.png"
-    link = "https://tue.nl"
-
+ 
   [[params.navbar_hierarchy]]
-    name = "SPS"
-    link = "https://www.tue.nl/en/research/research-groups/signal-processing-systems/"
-    position = 1
-
-  [[params.navbar_hierarchy]]
-    name = "BIASlab"
+    name = "Health Data Science Center"
     link = "/"
     position = 2
 
