@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://biaslab.github.io"
+baseurl = "https://hdsc.github.io"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Health Data Science Center"
@@ -40,13 +40,13 @@ tag = "tags"
     position = 2
 
   [[params.sponsors]]
-    name = "NWO"
-    link = "http://www.stw.nl"
-    image = "/img/sponsors/NWO.png"
+    name = ""
+    link = ""
+    #image = "/img/sponsors/NWO.png"
   [[params.sponsors]]
-    name = "GN Resound"
-    link = "http://www.resound.com/"
-    image = "/img/sponsors/GNResound.png"
+    name = ""
+    link = ""
+    #image = "/img/sponsors/GNResound.png"
 
   # Selected Publications section.
   [params.publications_selected]
