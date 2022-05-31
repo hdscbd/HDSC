@@ -12,7 +12,7 @@
                 <h2 itemprop="name">{{ .Params.name }}</h2>
                 <h3 itemprop="jobTitle">{{ .Params.role }}</h3>
                 {{ range .Params.organizations }}
-                    <h4>{{ .role }} {{.name}}</h4>
+                    <h4>{{ .role }}, {{.name}}</h4>
                 {{ end }}
             </div>
 
