@@ -17,10 +17,6 @@ We collaborate with a broad variety of partners, including patients, the general
 - Create and develop international collaborations that allow Bangladesh's health research community to participate in, contribute to, and lead data-driven health research on a global scale.
 
 
-## Our Mission
-Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) plans to implement the vision through a number of activities:
-
-
 ## Our Working Areas 
 - Structured Data
 - Unstructured Data
