@@ -93,8 +93,9 @@ The course covers the fundamentals of Python programming and data analysis workf
         </tr>
        
  </table>
-
-
+ 
+ 
+ 
 
 ### Learning Objectives
 - Understanding of the basic programming concept using Python in the health research perspective
