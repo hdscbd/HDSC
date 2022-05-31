@@ -1,21 +1,22 @@
+
 #!/bin/bash
 # Push the changes to biaslab.github.io
 
-CHECKOUT="/tmp/biaslab.github.io.git"
+CHECKOUT="/tmp/hdrobd.github.io.git"
 
 rm -f -r $CHECKOUT
-git clone git@github.com:biaslab/biaslab.github.io.git $CHECKOUT
+git clone git@github.com:hdrobd/hdrobd.github.io.git $CHECKOUT
 
 BUILDPATH=$PWD
 
-cd $BUILDPATH/themes/academic-group
+cd $BUILDPATH/themes/hhugo-academic-group
 git checkout master
 git pull
 cd $BUILDPATH
 
 rm -f -r $BUILDPATH/public/*
 
-hugo -t academic-group
+hugo -t hugo-academic-group
 
 cd $CHECKOUT
 rm -f -r $CHECKOUT/*
