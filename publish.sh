@@ -9,7 +9,7 @@ git clone git@github.com:hdrobd/hdrobd.github.io.git $CHECKOUT
 
 BUILDPATH=$PWD
 
-cd $BUILDPATH/themes/hhugo-academic-group
+cd $BUILDPATH/themes/hugo-academic-group
 git checkout master
 git pull
 cd $BUILDPATH
