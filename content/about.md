@@ -1,32 +1,32 @@
 +++
-title="About CHIRAL Bangladesh"
+title="About Health Data Science Center"
 +++
 
-# Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) 
+# Health Data Science Center, CHIRAL Bangladesh
 
 ## Who We are
-CHIRAL Bangladesh stands for Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh). We are a voluntary non-profit research organization, resolving to promote interdisciplinary research in the field of health data science, computational biology and genomics.
+CHIRAL Bangladesh stands for Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh). We are a voluntary non-profit research organization, resolving to promote interdisciplinary research in the field of health data science, computational biology and genomics. Health Data Science Center(HDSC) is a research wing of CHIRAL Bangladesh, focuses on solving health problems using data science and machine learning.
 
 ## What We Do
-- Conduct research to resolve scientific challenges in Bangladesh.
-- c
-- Equip students of various educational backgrounds with strong computational and data analysis skills.
-- Create opportunities for aspiring researchers.
-- Collaborate with bioscience professionals, universities, and research institutes
+We collaborate with a broad variety of partners, including patients, the general public, physicians, researchers, and health organizations, to assist them in conducting research into the causes, prevention, and treatment of all health problems using health data (such as heart attacks, strokes, and vascular dementia). We do this to make sure that new ways to treat and care for diseases and health problems reach patients as quickly as possible.
 
-## Our Vision
-The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit health research organization in Bangladesh and dissemination of scientific information from secondary-sources/ third-party data. The organization is run by students and young professionals from biological science and health science backgrounds, supervised by faculty members from the life sciences of universities. HDRO envisions enrichment of research, policy-making, and interventions within the Bangladeshi socio-economic frame, to customize large-scale healthcare solution and to upgrade the quality of academic degrees by research with broadening the application of computation, statistics, bioinformatics, and quantitative analysis to draw a meaningful conclusion from studies done on the same theme across Bangladesh and South Asia.
+## Our Aims
+- Create a center of interdisciplinary expertise that provides national research capability in health data science.
+- Form strong and long-lasting partnerships with Bangladesh's national healthcare system, incorporating health research expertise from across the country and serving as a Bangladesh-wide resource to support numerous future studies involving electronic health records (EHRs) linked to a variety of other multi-dimensional health datasets.
+- Through collaboration with the HDSC and other entities, engage patients, the public, and practitioners to offer a transparent and publically acceptable approach to the governance of health data research within the health research domain.
+- Create and develop international collaborations that allow Bangladesh's health research community to participate in, contribute to, and lead data-driven health research on a global scale.
+
 
 ## Our Mission
 Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) plans to implement the vision through a number of activities:
 
-- Training undergraduate students in research methodologies through well-designed online and hands-on courses with real-life assignments.
-- Authoring peer-reviewed papers and publishing in international journals.
-- Providing computation analytical support to postgraduate research students in collaboration with faculty members and approval from respective departments.
-- Attending conferences, workshops, symposia, and other public engagement events to influence preventive action plans on emerging health issues.
-- Explaining the cutting-edge advances in health science to common people through social and electronic media.
 
-{{<youtube cOmDnFZ2aI0>}}
+## Our Working Areas 
+- Structured Data
+- Unstructured Data
+- Personal Monitoring Data
+- Clinical Trials
 
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="1200" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Jagannath%20University&t=k&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://getasearch.com">getasearch</a><br><style>.mapouter{position:relative;text-align:right;height:367px;width:1080px;}</style><a href="https://www.embedgooglemap.net">add google map to my website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1200px;}</style></div></div>
+
+
