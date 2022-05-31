@@ -2,7 +2,7 @@
 date = "2018-08-23T14:45:00+02:00"
 external_link = ""
 title = "Python for Health Data Analytics(PY4HDA)"    
-subtitle = "Session: 2021"    
+subtitle = "Session: 2022"    
 participants_block_position = "down"
 type = "teaching"
 
@@ -16,9 +16,9 @@ type = "teaching"
     position = 1
 
 [[participants]]
-    name = "Atik Shahriar Sammo"
+    name = "Nazmul Hossain"
     is_member = true
-    id = "sammo"
+    id = "nazmul"
     position = 2
 
 +++
@@ -29,7 +29,7 @@ Note: This site is currently under construction.
 </h2>
 --->
 
-The "Python for Health Data Analytics" will start in July 2021.  
+The "Python for Health Data Analytics" will start in June 14, 2021.  
 
 
 <img src="/img/teaching/5SSD0-banner.png" width="1200px">

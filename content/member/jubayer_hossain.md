@@ -3,10 +3,10 @@ date = "2016-07-12T15:52:22+02:00"
 id = "jhossain"
 interests = ["Public Health", "Health Data Analytics", "Machine Learning", "Bioinformatics"]
 name = "Jubayer Hossain"
-portrait = "portraits/jubayer2.jpg"
+portrait = "portraits/jubayer.jpg"
 short_bio = "I am a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of my research interests. I founded the Health Data Research Organization as well."
 title = "Founder"
-sort_position = 4
+sort_position = 1
 
 [[social]]
     icon = "envelope"
