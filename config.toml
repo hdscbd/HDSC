@@ -5,7 +5,7 @@ builddrafts = false
 baseurl = ""
 canonifyurls = true
 theme = "hugo-academic-group"
-title = "Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)"
+title = "Health Data Science Center - CHIRAL Bangladesh"
 math = true
 copyright = "&copy; Center for Health Innovation, Research, Action and Learning - Bangladesh"
 enableRobotsTXT = true
@@ -20,34 +20,26 @@ tag = "tags"
       unsafe = true
 
 [params]
-  description = "The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit health research organization in Bangladesh"
+  description = "We collaborate with a broad variety of partners, including patients, the general public, physicians, researchers, and health organizations, to assist them in conducting research into the causes, prevention, and treatment of all health problems using health data (such as heart attacks, strokes, and vascular dementia). We do this to make sure that new ways to treat and care for diseases and health problems reach patients as quickly as possible."
   author = "CHIRAL Bangladesh"
-  email = "chiralbd@gmail.com"
+  email = "hdsc.chiralbd@gmail.com"
   #youtube = "https://www.youtube.com/channel/UCAcwD0rF2Rm-sp1c2LUWh4w"
   address = '<a>Azimpur, 7/7, Dhaka, Bangladesh</a>'
   slogan = "CHIRAL<b>BD</b>"
   slogan_icon = "icon-spsbrats_logo"
   slogan_text = "Better Insights, Better Lives"
   custom_css = ["biaslab.css"]
-  landing_heading = "Better Insights, Better Lives"
-  landing_description = "The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit health research organization in Bangladesh"
-  positions_available = true
-
-
-  [params.logo]
-    image = "img/PHSD.png"
-    link = "https://tue.nl"
-
-
+  landing_heading = "Solve Health Problems Through Modern Data Science Techniques"
+  landing_description = "Health Data Science Center(HDSC)"
   # [[params.navbar_hierarchy]]
   #   name = "SPS"
   #   link = "https://www.tue.nl/en/research/research-groups/signal-processing-systems/"
   #   position = 1
   #
-  # [[params.navbar_hierarchy]]
-  #   name = "Health Data Research Organization"
-  #   link = "/"
-  #   position = 2
+  [[params.navbar_hierarchy]]
+    name = "HDSC"
+    link = "/"
+    position = 2
 
   # [[params.sponsors]]
   #   name = "NWO"
@@ -154,6 +146,8 @@ tag = "tags"
     url = "/#publications"
     parent="research"
     weight = 3
+    
+    
   [[menu.main]]
     name = "News"
     url = "/#post"
@@ -161,95 +155,16 @@ tag = "tags"
     weight = 4
 
  [[menu.main]]
-    name = "People"
-    url = "/#members"
+    name = "Team"
+    url = "/#team"
     weight = 5
 
 
  [[menu.main]]
-    name = "Team"
-    url = "chiralteam"
-    weight = 5
-
-
-  [[menu.main]]
     name = "Teaching"
-    identifier = "teaching"
+    url = "/teaching/"
     weight = 6
 
-  [[menu.main]]
-    name = "Ongoing: Research ToolBox: A Step by Step Guide"
-    url = "/teaching/research-toolbox/program-intro"
-    parent = "teaching"
-    weight = 1
-    [[menu.main]]
-    name = "All Programs: CHIRAL Training Modules"
-    url = "/teaching/Programs"
-    parent = "teaching"
-    weight = 2
-   [[menu.main]]
-    [[menu.main]]
-    name = "Program 1: Scientific Computing for Biologists"
-    url = "/teaching/SCB"
-    parent = "teaching"
-    weight = 3
-      [[menu.main]]
-    [[menu.main]]
-    name = "Program 2: Health Data Analytics"
-    url = "/teaching/HDA"
-    parent = "teaching"
-    weight = 4
-
-
-
-   [[menu.main]]
-    name = "Resources"
-    weight = 6
-    url = "/resources"
-
-  [[menu.main]]
-    name = "Join"
-    url = "#open-projects"
-    weight = 7
-    identifier="joinus"
-  [[menu.main]]
-    name = "Health Data Science Center(HDSC)"
-    url = "/research/hdsc"
-    parent="joinus"
-    weight = 8
-
-  [[menu.main]]
-    name = "Genomic Data Science Center(GDSC)"
-    url = "/research/gdsc"
-    parent="joinus"
-    weight = 8
-  [[menu.main]]
-    name = "Geospatial Health Research Lab(GHRL)"
-    url = "/research/ghrl"
-    parent="joinus"
-    weight = 9
-
-  [[menu.main]]
-    name = "Research Assistant Confidentiality Agreement"
-    url = "/research-assistant-confidentiality-agreement"
-    parent="joinus"
-    weight = 9
-
-   [[menu.main]]
-    name = "Starter's Guide for New Team Members"
-    url = "/research/starter-guide"
-    parent="joinus"
-    weight = 10
-
-  [[menu.main]]
-    name = "Collaborators"
-    url = "/collaborators"
-    weight = 9
-
-  # [[menu.main]]
-  #   name = "Open projects"
-  #   url = "/open-projects"
-  #   parent = "joinus"
 
   [[menu.main]]
     name = "Contact"
