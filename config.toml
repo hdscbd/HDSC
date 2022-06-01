@@ -30,11 +30,12 @@ tag = "tags"
   slogan_text = "Better Insights, Better Lives"
   custom_css = ["biaslab.css"]
   landing_heading = "Solve Health Problems Through Modern Data Science Techniques"
-  landing_description = "Health Data Science Center(HDSC)"
-  # [[params.navbar_hierarchy]]
-  #   name = "SPS"
-  #   link = "https://www.tue.nl/en/research/research-groups/signal-processing-systems/"
-  #   position = 1
+  landing_description = "Health Data Science Center(HDSC) is a research wing of the CHIRAL Bangladesh. The wing focuses on using health data to make better healthcare decisions."
+  
+  [[params.navbar_hierarchy]]
+  name = "CHIRAL Bangladesh"
+  link = "https://chiralbd.org/"
+  position = 1
   #
   [[params.navbar_hierarchy]]
     name = "HDSC"
@@ -103,12 +104,7 @@ tag = "tags"
   # Navigation Links
   #   The weight parameter defines the order that the links will appear in.
 
-   [[menu.main]]
-    name = "Main"
-    url = "https://chiralbd.org/"
-    weight = 1
-  
-  
+
   [[menu.main]]
     name = "Home"
     url = "/#home"
