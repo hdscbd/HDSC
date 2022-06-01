@@ -103,38 +103,56 @@ tag = "tags"
   # Navigation Links
   #   The weight parameter defines the order that the links will appear in.
 
+   [[menu.main]]
+    name = "Main"
+    url = "https://chiralbd.org/"
+    weight = 1
+  
+  
   [[menu.main]]
     name = "Home"
     url = "/#home"
-    weight = 1
+    weight = 2
  
 [[menu.main]]
     name = "Projects"
     url = "/#projects"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Team"
     url = "/#member"
-    weight = 5
+    weight = 4
 
 
  [[menu.main]]
     name = "Teaching"
-    url = "/teaching/PY4HDA"
+    identifier = "teaching"
+    weight = 5
+
+  [[menu.main]]
+    name = "Ongoing: Python for Health Data Analytics(PY4HDA)"
+    url = "/teaching/py4hda"
+    parent = "teaching"
+    weight = 1
+    [[menu.main]]
+    name = "All Training Modules"
+    url = "/teaching/all_courses"
+    parent = "teaching"
+    weight = 2
+
+ [[menu.main]]
+    name = "Join"
+    url = "/research/hdsc/"
     weight = 6
-
-
+    
   [[menu.main]]
     name = "Contact"
     url = "/#contact"
-    weight = 9
+    weight = 7
 
 
-  [[menu.main]]
-    name = "Join"
-    url = "/research/hdsc/"
-    weight = 9
+ 
 
   # [[menu.main]]
   #   name = "Software"
