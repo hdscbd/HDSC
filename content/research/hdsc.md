@@ -1,5 +1,5 @@
 +++
-title="Health Data Science Center(HDSC)"
+title="Starter's Guide for New Team Members at Health Data Science Center(HDSC)"
 date = "2020-07-19T8:50:58+02:00"
 [[authors]]
     name = "Jubayer Hossain"
@@ -7,33 +7,32 @@ date = "2020-07-19T8:50:58+02:00"
     link = "/jubayer"
 +++
 
-CHIRAL Bangladesh deals with genomics and public research; the Health Data Science Center(HDSC) is dedicated to public health. The CPHR team focuses on the public health problems in Bangladesh. The design study for generating data for CHIRAL and preprocess the secondary data to give an insightful shape.
+
+## Who We are
+CHIRAL Bangladesh stands for Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh). We are a voluntary non-profit research organization, resolving to promote interdisciplinary research in the field of health data science, computational biology and genomics. Health Data Science Center(HDSC) is a research wing of CHIRAL Bangladesh, focuses on solving health problems using data science and machine learning.
+
+## What We Do
+We collaborate with a broad variety of partners, including patients, the general public, physicians, researchers, and health organizations, to assist them in conducting research into the causes, prevention, and treatment of all health problems using health data (such as heart attacks, strokes, and vascular dementia). We do this to make sure that new ways to treat and care for diseases and health problems reach patients as quickly as possible.
+
+## Our Aims
+- Create a center of interdisciplinary expertise that provides national research capability in health data science.
+- Form strong and long-lasting partnerships with Bangladesh's national healthcare system, incorporating health research expertise from across the country and serving as a Bangladesh-wide resource to support numerous future studies involving electronic health records (EHRs) linked to a variety of other multi-dimensional health datasets.
+- Through collaboration with the HDSC and other entities, engage patients, the public, and practitioners to offer a transparent and publically acceptable approach to the governance of health data research within the health research domain.
+- Create and develop international collaborations that allow Bangladesh's health research community to participate in, contribute to, and lead data-driven health research on a global scale.
 
 
+## Our Working Areas 
+- Structured Data
+- Unstructured Data
+- Personal Monitoring Data
+- Clinical Trials
 
-### The Challenges
-According to [worldometers.info](https://www.worldometers.info/world-population/bangladesh-population/), Bangladesh, with a population of 166,275,884 million in 2021, is a country in South Asia. Bangladesh is one of the world's most densely populated countries, with a population density of 1265 people per $km^2$. In South-East Asia the main public health issues are infectious diseases and communicable diseases. Public health has improved markedly in Bangladesh over the past several decades. Nevertheless, Bangladesh faces major health challenges.Bangladesh is faced a number of health problems, which can be classified as follows:
 
-- Population problems
-- Communicable diseases problems
-- Nutritional problems
-- Environmental sanitation problems
-- Health problems
-
-### Aims
-- To conduct health surveys for understanding the current public health problems.
-- To use health data in multiple forms to understand the cause of diseases and improve people's lives.
-- We are working to help policymakers to make data-driven decisions by using raw data.
-
-### Mission
+## Mission
 {{< figure src="/img/starter-guide/public_health.jpg" width="450px" class="right-inline" >}}
 
 We will empower data science to transform public health research by linking it to sources of data beyond the healthcare services, along with other government sectors, organizations, and data on health-related environments. While those who work in these fields may not view their data as having a direct impact on public health, decisions made in education, housing, technology, engineering, law, fiscal policy, environmental science, planning, history, and behavioral sciences all have an effect on our health.
 
-
-## Team
-- [ Syedatasneem Towhid, Ph.D <br> Team Lead, Center for Public Health Research](https://hdrobd.org/member/syedatasneem_towhid/)
-- [Jubayer Hossain <br> Data Analyst, Center for Public Health Research](https://hdrobd.org/member/jubayer_hossain/)
 
 
 
@@ -70,10 +69,7 @@ We use [Julia](http://julialang.org/) as our main programming language. You are 
 I also recommend that you spend some time on getting familiar with [Test-Driven Development](https://www.youtube.com/watch?t=11&v=ZB66AKW87M0) (TDD) of code.
 
 
-### SPSS
 
-{{< figure src="/img/starter-guide/spss.svg" width="120px" class="left-inline" >}}
-We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
 
 I also recommend that you spend some time on getting familiar with [Test-Driven Development](https://www.youtube.com/watch?t=11&v=ZB66AKW87M0) (TDD) of code.
 

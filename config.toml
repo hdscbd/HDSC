@@ -131,6 +131,10 @@ tag = "tags"
     weight = 9
 
 
+  [[menu.main]]
+    name = "Join"
+    url = "/research/hdsc/"
+    weight = 9
 
   # [[menu.main]]
   #   name = "Software"
